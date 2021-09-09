@@ -12,7 +12,9 @@ In this Python project, we will build a deep neural network model that can class
 
 With this model, we are able to read and understand traffic signs which are a very important task for all autonomous vehicles
 
-### **GTSRB (German Traffic Sign Recognition Benchmark)** was used to train and validate our Model:
+### **GTSRB (German Traffic Sign Recognition Benchmark)** was used to train and validate our Model: 
+
+[Download GTSRB](https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign).
 
 ![Accuracy](Images/Accuracy.png)
 
